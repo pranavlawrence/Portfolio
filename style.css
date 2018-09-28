@@ -22,8 +22,7 @@
     height: 360px;
     width: 674px;
     float: left;
-    left: 25%;
-}
+    }
 
 #rightback{
     background-color: #f3b35c;
@@ -32,6 +31,11 @@
     float: left; 
 }
 
-#leftback h1{
+#leftback p{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 80px;
     
 }
