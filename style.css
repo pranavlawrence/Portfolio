@@ -3,7 +3,7 @@
 }
 
 #banner{
-    background-color: #56c3b9;
+    background-color: #9f82b7;
     background-attachment: fixed;
     height: 70px;
 }
@@ -20,7 +20,7 @@
     background-image: url("back.png");
     background-repeat: no-repeat;
     height: 360px;
-    width: 674px;
+    width: 50%;
     float: left;
     }
 
@@ -28,7 +28,7 @@
     background-color: #f3b35c;
     width: 25%;
     height:360px;
-    float: left; 
+    float: right; 
 }
 
 #leftback p{
@@ -40,6 +40,35 @@
     
 }
 
+#leftback ul{
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 100px;
+}
+
 #rightback img{
     padding: 80px;
+}
+
+#banner2{
+    background-color: #56c3b9;
+    height: 800px;
+}
+
+
+#menuright li{
+    float: right;
+    padding: 20px;
+    font-size: 20px;
+    list-style-type: none;
+    
+
+}
+
+#menu a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
 }
