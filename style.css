@@ -82,9 +82,59 @@
     padding: 80px;
 }
 
+/* About Me Section */
+
 #banner2{
     background-color: #56c3b9;
     height: 800px;
 }
 
+#banner2 h1{
+    text-align: center;
+    padding: 20px;
+    color: black;
+}
 
+#banner2 hr{
+    width: 100px;
+    padding: 1px;
+    background-color: black;
+    margin: auto;
+}
+
+#pic{
+    width: 40%;
+    float: left;
+    margin-left: 100px;
+} 
+
+#pic img{
+    padding: 70px 0px 70px 100px;
+} 
+
+#rightcontent{
+    width: 40%;
+    float: left;
+    margin-left: 60px;
+}
+#rightcontent h1{
+    text-align: left;
+    padding-top: 50px;
+    padding-left:100px;
+}
+
+#rightcontent h3{
+    padding-left: 50px;
+}
+
+#rightcontent ul{
+    padding: 40px;
+}
+
+#rightcontent li{
+    padding: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+    
