@@ -69,6 +69,10 @@
     text-decoration: none;
     color: black;
     font-weight: bold;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     margin-top: 5px;
+}
+
+#menu li :hover{
+    color:white;
 }
