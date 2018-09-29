@@ -2,11 +2,43 @@
     margin: 0px;
 }
 
+/* Naviation Bar */
 #banner{
     background-color: #9f82b7;
     background-attachment: fixed;
     height: 70px;
 }
+
+#menuright li{
+    float: right;
+    padding: 20px;
+    font-size: 20px;
+    list-style-type: none;
+    
+
+}
+
+#menu a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 5px;
+}
+
+#menu li :hover{
+    color:white;
+}
+
+#left{
+    float: left;
+    padding: 20px 0px 0px 20px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/* Home Section */
 
 #leftback{
     background-color: #f06c65;
@@ -56,30 +88,3 @@
 }
 
 
-#menuright li{
-    float: right;
-    padding: 20px;
-    font-size: 20px;
-    list-style-type: none;
-    
-
-}
-
-#menu a{
-    text-decoration: none;
-    color: black;
-    font-weight: bold;
-    font-family: 'Courier New', Courier, monospace;
-    margin-top: 5px;
-}
-
-#menu li :hover{
-    color:white;
-}
-
-#left{
-    float: left;
-    padding: 20px 0px 0px 20px;
-    color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
