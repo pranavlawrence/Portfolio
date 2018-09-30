@@ -112,22 +112,31 @@
     padding: 70px 0px 70px 100px;
 } 
 
-#rightcontent{
+.rightcontent{
     width: 40%;
     float: left;
     margin-left: 60px;
 }
-/* #rightcontent h2{
+.rightcontent #upper{
     text-align: left;
-    padding-top: 50px;
-    padding-left:100px;
+    padding-top: 80px;
+    padding-left: 0px;
 }
 
-#rightcontent p{
-    padding: 20px;
-} */
+#upper h2,h3{
+    padding:5px;
+}
+#lower{
+    padding-top: 30px;
+}
 
-    
+#lower p{
+    font-size: 20px;
+    padding: 5px;
+}
+
+
+   
 /* Portfolio Styling */
 
 .port{
