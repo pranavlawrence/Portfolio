@@ -138,3 +138,9 @@
     font-weight: bold;
 }
     
+/* Portfolio Styling */
+
+.port{
+    background-color: #f06c65;
+    height: 800px;
+}
