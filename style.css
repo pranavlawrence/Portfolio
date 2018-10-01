@@ -184,3 +184,9 @@
     background-attachment: fixed;
     height: 70px;
 }
+
+.foot img{
+    height: 60px;
+    width: 60px;
+    padding: 5px;
+}
