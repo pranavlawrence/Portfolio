@@ -183,10 +183,23 @@
     background-color: #f3b35c;
     background-attachment: fixed;
     height: 70px;
+    
 }
 
-.foot img{
+.foot #logo img{
     height: 60px;
     width: 60px;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
+    
+}
+
+#logo{
+    width: 30%;
+    float:right;
+}
+
+.foot p{
+    float: left;
+    padding: 20px 20px 20px 70px;
+    font-size: 20px;
 }
