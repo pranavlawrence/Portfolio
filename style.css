@@ -143,3 +143,16 @@
     background-color: #f06c65;
     height: 800px;
 }
+
+.port h1{
+    text-align: center;
+    padding: 20px;
+    color: black;
+}
+
+.port hr{
+    width: 100px;
+    padding: 1px;
+    background-color: black;
+    margin: auto;
+}
