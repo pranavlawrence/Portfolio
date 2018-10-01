@@ -156,3 +156,31 @@
     background-color: black;
     margin: auto;
 }
+
+/* Contact Me Styling */
+
+.contact{
+    background-color: white;
+    height: 800px;
+}
+
+.contact h1{
+    text-align: center;
+    padding: 20px;
+    color: black;
+}
+
+.contact hr{
+    width: 100px;
+    padding: 1px;
+    background-color: black;
+    margin: auto;
+}
+
+/* footer styling */
+
+.foot{
+    background-color: #f3b35c;
+    background-attachment: fixed;
+    height: 70px;
+}
