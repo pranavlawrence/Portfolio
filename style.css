@@ -201,7 +201,9 @@
 }
 
 #own{
-    width: 50%;
+    width: 30%;
+    float: left;
+    padding: 200px 130px 130px 130px;
 }
 #own p{
     font-size: 20px;
