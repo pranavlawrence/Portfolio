@@ -177,6 +177,14 @@
     margin: auto;
 }
 
+/* Forms styling */
+
+.contact #input{
+    font-size:20px;
+    width: 40%;
+    float: right;
+}
+
 /* footer styling */
 
 .foot{
